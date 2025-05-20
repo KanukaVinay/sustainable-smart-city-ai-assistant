@@ -16,6 +16,7 @@ A comprehensive web application that leverages AI to assist with sustainable urb
 - **Weather Forecast**: Get current weather information for any city
 - **Temperature Comparison**: Compare current year temperatures with historical data and analyze climate change implications
 
+ 
 
 ## 🔧 Technologies Used
 
@@ -90,6 +91,8 @@ A comprehensive web application that leverages AI to assist with sustainable urb
 ### Temperature Comparison
 - Compare current year temperatures with historical data
 - View temperature trends and climate change analysis
+
+![Temperature Comparison](https://raw.githubusercontent.com/KanukaVinay/sustainable-smart-city-ai-assistant/main/screenshots/Temperature-comparison1.png)
 
 ## 📂 Project Structure
 
